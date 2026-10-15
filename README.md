@@ -17,22 +17,18 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" />
 </p>
 
----
-
 ### 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pramodkumar9039&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔥 Contribution Streak
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pramodkumar9039&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ### 🚀 Featured Projects
 
