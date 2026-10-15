@@ -9,10 +9,6 @@
 - 🌱 Learning backend development and system design
 - 📫 Connect with me through my GitHub projects
 
----
-
-### 🛠️ Languages and Tools
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
