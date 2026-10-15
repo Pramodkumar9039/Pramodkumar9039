@@ -29,17 +29,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pramodkumar9039&theme=tokyonight&hide_border=true" />
 </p>
-
-### 🚀 Featured Projects
-
-- **QueueLess** — Queue management system built with React, Tailwind CSS, Node.js, Express, MongoDB and JWT authentication.
-- **Employee Management System** — Employee management application using React and Tailwind CSS.
-- **JSSSTU Website Clone** — University website frontend built with React.
-- **Bank Transaction Backend** — Backend project focused on banking transaction functionality.
-
 ---
-
-### 🤝 Connect with Me
 
 ### 🤝 Connect with Me
 
