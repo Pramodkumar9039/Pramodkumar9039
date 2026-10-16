@@ -7,6 +7,7 @@
 
 
 <!-- Animated About Me -->
+<hr>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/Status-Building%20QueueLess-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </p>
 
+<hr>
 <h2 align="center">Languages and Tools</h2>
 
 <p align="left">
@@ -53,6 +55,7 @@
 
 
 <!-- GitHub Statistics -->
+<hr>
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -65,6 +68,7 @@
 </p>
 
 <!-- Connect With Me -->
+<hr>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
