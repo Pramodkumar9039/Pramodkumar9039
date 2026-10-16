@@ -1,15 +1,34 @@
-# Hi, I'm Pramod Kumar 👋
 
-### Computer Science Engineering Student | Full-Stack Developer | DSA Enthusiast
+<!-- Animated Header -->
 
-- 🎓 CSE student at JSS Science and Technology University, Mysuru
-- 💻 Building full-stack web applications
-- 🚀 Currently working on **QueueLess – Queue Management System**
-- 🧠 Solved 450+ problems on LeetCode
-- 🌱 Learning backend development and system design
-- 📫 Connect with me through my GitHub projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=PramodKumar;Software+Developer;DSA+Enthusiast" alt="Animated Developer Introduction" />
+</p>
 
-### 🛠️ Languages and Tools
+
+<!-- Animated About Me -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;DSA+Enthusiast;Building+QueueLess+%F0%9F%9A%80" alt="Animated Introduction" />
+</p>
+
+<p align="center">
+  🎓 CSE student at <b>JSS Science and Technology University, Mysuru</b><br/><br/>
+  💻 Building full-stack web applications<br/><br/>
+  🚀 Currently developing <b>QueueLess – Queue Management System</b><br/><br/>
+  🧠 Solved <b>450+ problems on LeetCode</b><br/><br/>
+  🌱 Learning backend development and system design<br/><br/>
+  📫 Explore my repositories and connect through GitHub
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-7B42F6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Status-Building%20QueueLess-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</p>
+
+<h2 align="center">Languages and Tools</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -32,31 +51,54 @@
   <img src="https://img.shields.io/badge/JSON_Web_Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### 📊 GitHub Statistics
+
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pramodkumar9039&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodkumar9039&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B42F6&text_color=FFFFFF&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Pramodkumar9039&theme=transparent&hide_border=true&background=0D1117&ring=7B42F6&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E" />
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pramodkumar9039&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 </p>
 
-### 🤝 Connect with Me
+<!-- Connect With Me -->
+<h2 align="center">🤝 Let's Connect</h2>
 
-<p align="left">
+<p align="center">
+  <i>Feel free to connect with me and explore my work.</i>
+</p>
+
+<p align="center">
   <a href="https://github.com/Pramodkumar9039">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/pramodkumar9039/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-⭐ Thanks for visiting my profile!
+
+
+<!-- Animated Thank You Footer -->
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Thanks for visiting my profile" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=3&section=footer&reversal=true" width="65%" alt="Footer divider" />
+</p>
+
+<p align="center">
+  <sub>✨ Crafted with passion by Pramod Kumar</sub>
+</p>
+
