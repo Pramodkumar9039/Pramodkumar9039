@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=PRAMODKUMAR;Software+Developer;DSA+Enthusiast" alt="Animated Developer Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=I%20AM%20PRAMODKUMAR;Software+Developer;DSA+Enthusiast" alt="Animated Developer Introduction" />
 </p>
 
 <!-- Premium Gradient Divider -->
