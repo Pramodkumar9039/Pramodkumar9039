@@ -103,7 +103,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Most Used Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Most Used Languages" />
 </p>
 
 
