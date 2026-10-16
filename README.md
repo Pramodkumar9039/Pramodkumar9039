@@ -8,26 +8,44 @@
 
 <!-- Animated About Me -->
 <hr>
+
+<!-- 👨‍💻 Animated About Me -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;DSA+Enthusiast;Building+QueueLess+%F0%9F%9A%80" alt="Animated Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;DSA+Enthusiast;Building+QueueLess+%F0%9F%9A%80" alt="Animated Introduction" />
 </p>
 
+<!-- Animated Inner Text -->
+
+<!-- Animated About Me Details -->
 <p align="center">
-  🎓 CSE student at <b>JSS Science and Technology University, Mysuru</b><br/><br/>
-  💻 Building full-stack web applications<br/><br/>
-  🚀 Currently developing <b>QueueLess – Queue Management System</b><br/><br/>
-  🧠 Solved <b>450+ problems on LeetCode</b><br/><br/>
-  🌱 Learning backend development and system design<br/><br/>
-  📫 Explore my repositories and connect through GitHub
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%8E%93+CSE+Student+at+JSS+Science+and+Technology+University%2C+Mysuru" alt="Education" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%92%BB+Building+Full-Stack+Web+Applications" alt="Development" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%9A%80+Developing+QueueLess+Queue+Management+System" alt="QueueLess Project" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%A7%A0+Solved+450%2B+LeetCode+Problems" alt="LeetCode" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%8C%B1+Learning+Backend+Development+and+System+Design" alt="Learning" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=35&lines=%F0%9F%93%AB+Explore+My+Projects+and+Connect" alt="Connect" />
 </p>
 
+
+<!-- Tech Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-7B42F6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Status-Building%20QueueLess-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-7B42F6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="C++" />
+  <img src="https://img.shields.io/badge/Project-QueueLess-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="QueueLess" />
 </p>
+
 
 <hr>
 <h2 align="center">Languages and Tools</h2>
