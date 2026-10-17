@@ -120,10 +120,6 @@
 <h2 align="center">04. &nbsp; LET'S CONNECT</h2>
 
 <p align="center">
-  <i>Feel free to connect with me and explore my work.</i>
-</p>
-
-<p align="center">
   <a href="https://github.com/Pramodkumar9039">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -134,6 +130,10 @@
   &nbsp;
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://monkeytype.com/account" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-000000?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype" />
   </a>
 </p>
 
