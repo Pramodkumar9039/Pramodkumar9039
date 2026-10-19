@@ -151,7 +151,7 @@
 <h2 align="center">THANK YOU FOR VISITING</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Thanks for visiting my profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=%E2%AD%90+Thanks+for+visiting+my+profile!!;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Thanks for visiting my profile" />
 </p>
 
 <p align="center">
