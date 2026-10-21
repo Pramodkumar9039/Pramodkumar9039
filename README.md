@@ -156,20 +156,6 @@
         <img src="https://leetcard.jacoblin.cool/pramodkumar9039?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode statistics and heatmap"/>
       </a>
     </td>
-    <td align="center" width="50%">
-      <h3>⌨️ Monkeytype</h3>
-      <a href="https://monkeytype.com/profile/baandli_buddha">
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=Baandli_buddha&theme=serika_dark&timeValue=60" width="100%" alt="Monkeytype typing statistics"/>
-      </a>
-      <br/><br/>
-      <a href="https://monkeytype.com/profile/baandli_buddha">
-        <img src="https://img.shields.io/badge/CURRENT_STREAK-14_DAYS-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Monkeytype current streak: 14 days"/>
-      </a>
-      <br/><br/>
-      <a href="https://monkeytype.com/profile/baandli_buddha">
-        <img src="https://img.shields.io/badge/VIEW-FULL_PROFILE-7B42F6?style=for-the-badge&labelColor=0D1117" alt="View Monkeytype profile"/>
-      </a>
-    </td>
   </tr>
 </table>
 
