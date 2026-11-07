@@ -98,19 +98,13 @@
 <h2 align="center">03. &nbsp; GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodkumar9039&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B42F6&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Pramodkumar9039&theme=transparent&hide_border=true&background=0D1117&ring=7B42F6&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodkumar9039&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Most Used Languages" />
-</p>
-
-
 <!-- Section Divider -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=2&section=header" width="75%" alt="Section divider" />
-</p>
+</p> -->
 
 
 <!-- ═══════════════════════════════════════════════ -->
