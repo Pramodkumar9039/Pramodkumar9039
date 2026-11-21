@@ -181,7 +181,7 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=2&section=header" width="75%" alt="Section divider" />
 </p>
 
@@ -197,4 +197,4 @@
 
 <p align="center">
   <sub>✨ Crafted with passion by Pramod Kumar</sub>
-</p>
+</p> -->
