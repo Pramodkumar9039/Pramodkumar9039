@@ -165,6 +165,22 @@
 
 <br/>
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:2563EB,100:00F7FF&height=120&section=header&animation=twinkling" width="100%" />
+
+<h1 align="center">🌊 THANK YOU FOR VISITING 🌊</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=80&lines=✨+Thanks+for+visiting+my+profile!!;Keep+Learning.;Keep+Building.;Keep+Growing.🚀" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2563EB,100:0D1117&height=100&section=footer&animation=twinkling" width="100%" />
+
+<sub>✨ Crafted with passion by Pramod Kumar</sub>
+
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=2&section=header" width="75%" alt="Section divider" />
 </p>
