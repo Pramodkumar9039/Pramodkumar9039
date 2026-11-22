@@ -176,7 +176,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2563EB,100:0D1117&height=100&section=footer&animation=twinkling" width="100%" />
 
-<sub>✨ Crafted with passion by Pramod Kumar</sub>
+<sub>✨ Crafted with passion by PramodKumar</sub>
 
 </div>
 
