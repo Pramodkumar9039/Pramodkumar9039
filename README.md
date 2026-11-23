@@ -179,22 +179,3 @@
 <sub>✨ Crafted with passion by PramodKumar</sub>
 
 </div>
-
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=2&section=header" width="75%" alt="Section divider" />
-</p>
-
-<h2 align="center">THANK YOU FOR VISITING</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=%E2%AD%90+Thanks+for+visiting+my+profile!!;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Thanks for visiting my profile" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:7B42F6&height=3&section=footer&reversal=true" width="65%" alt="Footer divider" />
-</p>
-
-<p align="center">
-  <sub>✨ Crafted with passion by Pramod Kumar</sub>
-</p> -->
